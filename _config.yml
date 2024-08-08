@@ -21,7 +21,7 @@ repository               : "greglitster/greglitster.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Greg_Litster.jpg"
+  avatar           : "Greg_Litster_sq.jpg"
   name             : "Greg Litster"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
