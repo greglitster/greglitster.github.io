@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can view my CV [here](http://greglitster.github.io/files/CV_GregoryLitster_2024.pdf)
+You can view my CV [here](http://greglitster.github.io/files/CV_LitsterGregory_2024.pdf)
 
 <!--{% include base_path %}
 
