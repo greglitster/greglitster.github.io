@@ -42,12 +42,5 @@ Hurst, A., Litster, G., Rennick, C. (2020), Operationalizing Jonassen’s Design
 ## Accepted or In press
 Litster, G., Hurst, A. (In press). Analyzing Problem Framing in Design Teams: A systesm Mapping Approach Artificial Intelli‐ gence, Engineering Design and Manufacturing
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+You can also find my articles on [my Google Scholar profile](https://scholar.google.ca/citations?user=OkCgt94AAAAJ&hl=en)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
