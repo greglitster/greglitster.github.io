@@ -10,7 +10,7 @@ Rennick C., Nickel, J. Litster, G., Hurst, A. Students perceptions and attitudes
 learning contexts. Presented at the 2024 ASEE Annual Conference and Exposition
 
 ## 2023
-Rennick, C. Litster, G., Hulls, C., Hurst, A. (2023). Curricular Hackathons for Engineering Design Learning: The case of Engi‐ neering Design Days IEEE Transactions on Education
+Rennick, C. Litster, G., Hulls, C., Hurst, A. (2023). Curricular Hackathons for Engineering Design Learning: The case of Engineering Design Days IEEE Transactions on Education
 
 Nickel, J., Rennick, C., Litster, G., Hulls, C.C.W, Hurst, A., (2023). A Qualitative Investigations of Students’ Design Experiences
 in a Work‐Integrated Learning Setting, International Conference of Engineering Design (ICED23)
@@ -32,7 +32,7 @@ Litster, G., Hurst, A., (2021). Protocol Analysis in Engineering Design Educatio
 
 Litster, G., Hurst, A., Pretti, T. J. (2021) ‘Surveying Design Skill Development in Work‐Integrated Learning Experiences: A Review of the Literature’, in Proceedings of the International Conference on Engineering Design (ICED21), Awarded Re‐ viewers Favourite Paper DOI:10.1017/pds.2021.546
 
-Hurst, A., Duong, C., Flus, M., Litster, G., Nickel, J., Dai, A. (2021). Evaluating Peer‐led Feedback in Asynchronous De‐ sign Critiques: a question‐centered approach. 2021 American Society of Engineering Education Annual Conference. doi:10.18260/1‐2–37103.
+Hurst, A., Duong, C., Flus, M., Litster, G., Nickel, J., Dai, A. (2021). Evaluating Peer‐led Feedback in Asynchronous De‐ sign Critiques: a question‐centered approach. 2021 American Society of Engineering Education Annual Conference.
 
 ## 2020
 Dai, A., Flus, M., Litster, G., Nickel, J., Hurst, A. (2020). What Do Engineers Do? Design and Sustainability in Recruitment Materials of Engineering Programs in Canada. Canadian Design Workshop I.
